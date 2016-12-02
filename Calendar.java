@@ -6,7 +6,7 @@ public class Calendar {
     *  For month, use 1 for January, 2 for February, and so forth.
     *  Returns 0 for Sunday, 1 for Monday, and so forth.
     ***************************************************************************/
-
+// small chanfge
     public static void main(String[] args) {
 
         int month = Integer.parseInt(args[0]);    // month (Jan = 1, Dec = 12)	
